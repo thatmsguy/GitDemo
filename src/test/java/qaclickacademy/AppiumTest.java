@@ -10,6 +10,12 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void HybridAPpAndroid()
+	{
+		System.out.println("HybridAPpAndroid");
+	}
+	
+	@Test
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");	
